@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'PanaderíaUMG'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05E415DD46ED4E8C85C2367EC737F546 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D9BC03D1E3C4B2989624E48ED939455 }}
           package: .
